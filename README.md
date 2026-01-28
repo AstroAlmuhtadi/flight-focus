@@ -4,9 +4,6 @@
 
 FlightFocus Pro turns your focus sessions into real-time flight simulations. Select a duration, pick a real-world flight path, and watch your plane travel from departure to destination as you work. The flight lands exactly when your timer hits zero.
 
-![FlightFocus Screenshot](screenshot.png)
-*(Note: Don't forget to take a screenshot of your app, name it screenshot.png, and add it to your repo!)*
-
 ## 🐧 Fedora Optimized Features
 This edition has been specifically tuned for **Fedora Workstation (GNOME)**:
 * **Native Theming:** Uses `QT_QPA_PLATFORMTHEME="gnome"` for seamless visual integration.
